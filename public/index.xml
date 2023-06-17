@@ -13,9 +13,7 @@
       <pubDate>Sat, 17 Jun 2023 03:56:21 +0700</pubDate>
       
       <guid>https://peter.roehlen.net/posts/2023-developer-survey-results/</guid>
-      <description>I landed on Stack Overflow a few minutes ago looking for an answer to something and I saw that the 2023 Developer Survey came out this past week.
-I thought this new metric or representation was interesting:
-The blue dot is the number of people who haven’t used a language but want to (SO calls that “desired”). The red dot is people who have used a language and want to continue using it in the future (SO calls that “admired”).</description>
+      <description>My thoughts on changes in the latest developer survey, Rust&amp;rsquo;s continued popularity and the lack of love for JavaScript.</description>
     </item>
     
   </channel>

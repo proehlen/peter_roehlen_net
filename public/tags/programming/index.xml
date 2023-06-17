@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Peter Roehlen</title>
-    <link>https://peter.roehlen.net/posts/</link>
-    <description>Recent content in Posts on Peter Roehlen</description>
+    <title>Programming on Peter Roehlen</title>
+    <link>https://peter.roehlen.net/tags/programming/</link>
+    <description>Recent content in Programming on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2023 03:56:21 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 03:56:21 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Developer Survey Results</title>
       <link>https://peter.roehlen.net/posts/2023-developer-survey-results/</link>
