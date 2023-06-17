@@ -1,0 +1,4 @@
+baseURL = 'https://peter.roehlen.net/'
+languageCode = 'en-us'
+title = 'Peter Roehlen'
+theme = 'm10c'

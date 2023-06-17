@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Peter Roehlen</title>
+    <link>https://peter.roehlen.net/tags/untagged/</link>
+    <description>Recent content in untagged on Peter Roehlen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jun 2023 03:56:21 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 Developer Survey Results</title>
+      <link>https://peter.roehlen.net/posts/2023-developer-survey-results/</link>
+      <pubDate>Sat, 17 Jun 2023 03:56:21 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/2023-developer-survey-results/</guid>
+      <description>I landed on Stack Overflow a few minutes ago looking for an answer to something and I saw that the 2023 Developer Survey came out this past week.
+I thought this new metric or representation was interesting:
+The blue dot is the number of people who haven’t used a language but want to (SO calls that “desired”). The red dot is people who have used a language and want to continue using it in the future (SO calls that “admired”).</description>
+    </item>
+    
+  </channel>
+</rss>
