@@ -4,7 +4,7 @@ date: 2023-06-17T03:56:21+07:00
 draft: false
 toc: false
 images:
-summary: "My thoughts on changes in the latest developer survey, Rust's continued popularity and the lack of love for JavaScript."
+summary: "My brief thoughts on changes in the latest developer survey, Rust's continued popularity and the lack of love for JavaScript."
 tags:
   - Programming
   - JavaScript
