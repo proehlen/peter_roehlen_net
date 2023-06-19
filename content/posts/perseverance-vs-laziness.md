@@ -11,5 +11,5 @@ tags:
 ---
 15 minutes before I was due to start work this morning, I finally got some code working in a personal project that I’d been wrestling with for hours over the weekend.
 
-It got me thinking that it would be difficult to estimate which was a more important trait to human progress: bloody minded perseverance or laziness. The latter of which is often the impetus for finding a different/better way.
+Nothing I do is that important but it got me thinking that it would be difficult to estimate which was a more important trait to human progress: bloody minded perseverance or laziness. The latter of which is often the impetus for finding a different/better way.
 
