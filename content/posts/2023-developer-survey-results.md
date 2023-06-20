@@ -14,6 +14,7 @@ tags:
 I landed on Stack Overflow a few minutes ago looking for an answer to something and I saw that the 2023 Developer Survey [came out this past week.](https://stackoverflow.blog/2023/06/13/developer-survey-results-are-in/)
 
 I thought this new metric or representation was interesting:
+<!--more-->
 
 ![Example image](/images/2023-Developer-Survey-Desire-Admire.png)
 
