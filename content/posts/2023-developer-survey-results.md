@@ -16,7 +16,7 @@ I landed on Stack Overflow a few minutes ago looking for an answer to something 
 I thought this new metric or representation was interesting:
 <!--more-->
 
-![Example image](/images/2023-Developer-Survey-Desire-Admire.png)
+![2023 Developer Survey Admired Languages](/images/2023-Developer-Survey-Desire-Admire.png)
 
 The blue dot is the number of people who haven’t used a language but want to (SO calls that “desired”). The red dot is people who have used a language and want to continue using it in the future (SO calls that “admired”).
 
