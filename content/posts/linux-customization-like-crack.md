@@ -8,9 +8,9 @@ tags:
  - Linux
  - Windows
 ---
-The ability to customize everything in Linux is like crack after coming from Windows where a mountain of small, daily irritants that I didn’t have the power to do anything about all added up to a persistent dull ache in the balls.
+The ability to customize everything in Linux is like crack after coming from a year of exclusively using Windows. In Windows, a mountain of small daily irritants, that I didn’t have the power to do anything about, all added up to a persistent dull ache in the balls.
 <!--more-->
 
-Don’t like the way something looks? Change it. Don’t like the way something else behaves? Change that. Can’t change it via a gui setting? Hack some config file or write a script to do it. Can’t do that? Fork the code and change it there (I haven’t done that yet but I’ve been tempted). You can lose hours, days even, making everything just so when it was okay enough to begin with.
+In Linux it's like: Don’t like the way something looks? Change it. Don’t like the way something else behaves? Change that. Can’t change it via a gui setting? Hack some config file or write a script to do it. Can’t do that? Fork the code and change it there (I haven’t done that yet but I’ve been tempted). You can lose hours or even days making everything just so when it was okay enough to begin with.
 
-I must stop now.
+I must stop myself.
