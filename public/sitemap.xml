@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://peter.roehlen.net/posts/choosing-an-emacs-starting-configuration/</loc>
+    <lastmod>2023-07-16T11:21:50+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/emacs/</loc>
+    <lastmod>2023-07-16T11:21:50+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/</loc>
+    <lastmod>2023-07-16T11:21:50+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/posts/</loc>
+    <lastmod>2023-07-16T11:21:50+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/</loc>
+    <lastmod>2023-07-16T11:21:50+07:00</lastmod>
+  </url><url>
     <loc>https://peter.roehlen.net/tags/linux/</loc>
     <lastmod>2023-07-11T22:15:09+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/posts/linux-customization-like-crack/</loc>
-    <lastmod>2023-07-11T22:15:09+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/</loc>
-    <lastmod>2023-07-11T22:15:09+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/posts/</loc>
-    <lastmod>2023-07-11T22:15:09+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/tags/</loc>
     <lastmod>2023-07-11T22:15:09+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/tags/windows/</loc>

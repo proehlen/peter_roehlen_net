@@ -6,7 +6,16 @@
     <description>Recent content on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jul 2023 22:15:09 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 11:21:50 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing an Emacs Starting Configuration</title>
+      <link>https://peter.roehlen.net/posts/choosing-an-emacs-starting-configuration/</link>
+      <pubDate>Sun, 16 Jul 2023 11:21:50 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/choosing-an-emacs-starting-configuration/</guid>
+      <description>&lt;p&gt;I (very) briefly tried Emacs for the first time a few years ago. However, the (really terrible) default keybindings put me off using vanilla Emacs, I didn&amp;rsquo;t try Evil Mode, and (back then) Spacemacs was hard to get working and slow to load. But, having trouble this week trying to get an &lt;a href=&#34;https://en.wikipedia.org/wiki/Org-mode&#34;&gt;Org-mode&lt;/a&gt; plugin working in either Vim or Neovim, I decided to give Emacs another try.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Linux Customization Is Like Crack</title>
       <link>https://peter.roehlen.net/posts/linux-customization-like-crack/</link>

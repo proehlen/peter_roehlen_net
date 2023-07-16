@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Peter Roehlen</title>
+    <link>https://peter.roehlen.net/tags/emacs/</link>
+    <description>Recent content in Emacs on Peter Roehlen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2023 11:21:50 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing an Emacs Starting Configuration</title>
+      <link>https://peter.roehlen.net/posts/choosing-an-emacs-starting-configuration/</link>
+      <pubDate>Sun, 16 Jul 2023 11:21:50 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/choosing-an-emacs-starting-configuration/</guid>
+      <description>&lt;p&gt;I (very) briefly tried Emacs for the first time a few years ago. However, the (really terrible) default keybindings put me off using vanilla Emacs, I didn&amp;rsquo;t try Evil Mode, and (back then) Spacemacs was hard to get working and slow to load. But, having trouble this week trying to get an &lt;a href=&#34;https://en.wikipedia.org/wiki/Org-mode&#34;&gt;Org-mode&lt;/a&gt; plugin working in either Vim or Neovim, I decided to give Emacs another try.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
