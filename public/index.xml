@@ -6,11 +6,26 @@
     <description>Recent content on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2023 22:21:45 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jul 2023 22:49:00 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The First Stages of Learning Emacs</title>
+      <link>https://peter.roehlen.net/posts/the-first-stages-of-learning-emacs/</link>
+      <pubDate>Tue, 18 Jul 2023 22:49:00 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/the-first-stages-of-learning-emacs/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m only very early into my learning emacs journey and, from my lowly viewpoint at the foothills before the mountain that I still hope to summit, the stages of learning Emacs seem to start with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bewilderment (wtf?),&lt;/li&gt;
+&lt;li&gt;Frustration (wth?),&lt;/li&gt;
+&lt;li&gt;Shock (it can&amp;rsquo;t really be this bad can it?), and&lt;/li&gt;
+&lt;li&gt;Anger (wtf?)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>Committing to Emacs</title>
       <link>https://peter.roehlen.net/posts/committing-to-emacs/</link>
-      <pubDate>Sun, 16 Jul 2023 22:21:45 +0700</pubDate>
+      <pubDate>Mon, 17 Jul 2023 22:21:45 +0700</pubDate>
       
       <guid>https://peter.roehlen.net/posts/committing-to-emacs/</guid>
       <description>&lt;p&gt;I’m going to force myself to use Emacs daily for six months.&lt;/p&gt;</description>

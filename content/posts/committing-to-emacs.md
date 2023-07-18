@@ -1,6 +1,6 @@
 ---
 title: "Committing to Emacs"
-date: 2023-07-16T22:21:45+07:00
+date: 2023-07-17T22:21:45+07:00
 draft: false
 tags:
     - Emacs
