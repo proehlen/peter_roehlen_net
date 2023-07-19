@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://peter.roehlen.net/</loc>
+    <lastmod>2023-07-19T22:07:51+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/posts/</loc>
+    <lastmod>2023-07-19T22:07:51+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/posts/the-whitest-website-on-the-internet/</loc>
+    <lastmod>2023-07-19T22:07:51+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/</loc>
+    <lastmod>2023-07-19T22:07:51+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/ux/</loc>
+    <lastmod>2023-07-19T22:07:51+07:00</lastmod>
+  </url><url>
     <loc>https://peter.roehlen.net/tags/emacs/</loc>
     <lastmod>2023-07-18T22:49:00+07:00</lastmod>
   </url><url>
-    <loc>https://peter.roehlen.net/</loc>
-    <lastmod>2023-07-18T22:49:00+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/posts/</loc>
-    <lastmod>2023-07-18T22:49:00+07:00</lastmod>
-  </url><url>
     <loc>https://peter.roehlen.net/posts/the-first-stages-of-learning-emacs/</loc>
-    <lastmod>2023-07-18T22:49:00+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/tags/</loc>
     <lastmod>2023-07-18T22:49:00+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/posts/committing-to-emacs/</loc>

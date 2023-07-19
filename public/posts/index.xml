@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2023 22:49:00 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 22:07:51 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Whitest Website on the Internet</title>
+      <link>https://peter.roehlen.net/posts/the-whitest-website-on-the-internet/</link>
+      <pubDate>Wed, 19 Jul 2023 22:07:51 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/the-whitest-website-on-the-internet/</guid>
+      <description>&lt;p&gt;This misfortune keeps repeating itself: It&amp;rsquo;s 9pm and you&amp;rsquo;re happily working away in your dark themed code editor when you need to look something up. So you fire up your dark themed web browser from your dark themed OS desktop and do a search in your dark themed search page. Then, absent-mindedly, you click a search result that takes you to Wikipedia where you have your retinas burned out by the whitest website on the entire internet.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The First Stages of Learning Emacs</title>
       <link>https://peter.roehlen.net/posts/the-first-stages-of-learning-emacs/</link>

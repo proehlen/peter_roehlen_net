@@ -23,6 +23,6 @@ In the interest of faithfully documenting my experience while it is still fresh,
     -   Aren't consistently available or applied throughout the rest of the UI, and
     -   Aren't compatible with the tutorial.
 -   The separation of windows and buffers as concepts:
-    -   Stuff I'm working on keeps disappearing as the content of my window is replaced by a different buffer
+    -   Stuff I'm working on keeps disappearing as the content of my window is replaced by a different buffer.
     -   I just want every file / buffer to open in something like a new tab. Closing the window / tab should close the file.
 -   Semi-regularly I press something or do something and I can't enter anything anymore, not even the key sequences to quit Emacs. I don't know if it's just ignorance about what I've done or some misbehaving package but I have to force close Emacs and start all over again.
