@@ -9,8 +9,9 @@ tags:
  - Windows
 ---
 Well after a year or something of exclusively using Windows 10/11 and not having Linux, I’m back baby.
-<!--more-->
+
 I installed KDE Plasma so I could configure the taskbar to look/work like Windows 11, installed Microsoft VS Code, Microsoft Teams, Microsoft Edge, Microsoft Powershell and I’m ready to rock and roll.
+<!--more-->
 
 ![How do you do, fellow free software enthusiasts](/images/how-do-you-do-fellow-foss-enthusiasts.png)
 

@@ -8,9 +8,9 @@ tags:
 
 I'm only very early into my learning emacs journey and, from my lowly viewpoint at the foothills before the mountain that I still hope to summit, the stages of learning Emacs seem to start with:
 
--   Bewilderment (wtf?),
--   Frustration (wth?),
--   Shock (it can't really be this bad can it?), and
+-   Bewilderment (wtf?)
+-   Frustration (wth?)
+-   Shock (it can't really be this bad can it?)
 -   Anger (wtf?)
 <!--more-->
 

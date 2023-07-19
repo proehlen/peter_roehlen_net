@@ -13,7 +13,7 @@
       <pubDate>Wed, 19 Jul 2023 22:07:51 +0700</pubDate>
       
       <guid>https://peter.roehlen.net/posts/the-whitest-website-on-the-internet/</guid>
-      <description>&lt;p&gt;This misfortune keeps repeating itself: It&amp;rsquo;s 9pm and you&amp;rsquo;re happily working away in your dark themed code editor when you need to look something up. So you fire up your dark themed web browser from your dark themed OS desktop and do a search in your dark themed search page. Then, absent-mindedly, you click a search result that takes you to Wikipedia where you have your retinas burned out by the whitest website on the entire internet.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This misfortune keeps repeating itself: It&amp;rsquo;s 9pm and you&amp;rsquo;re happily working away in your dark themed code editor when you need to look something up. So you fire up your dark themed web browser from your dark themed OS desktop and do a search using your dark themed search page. Then, absent-mindedly, you click a search result that takes you to Wikipedia where you have your retinas burned out by the whitest website on the entire internet.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -24,9 +24,9 @@
       <guid>https://peter.roehlen.net/posts/the-first-stages-of-learning-emacs/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m only very early into my learning emacs journey and, from my lowly viewpoint at the foothills before the mountain that I still hope to summit, the stages of learning Emacs seem to start with:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Bewilderment (wtf?),&lt;/li&gt;
-&lt;li&gt;Frustration (wth?),&lt;/li&gt;
-&lt;li&gt;Shock (it can&amp;rsquo;t really be this bad can it?), and&lt;/li&gt;
+&lt;li&gt;Bewilderment (wtf?)&lt;/li&gt;
+&lt;li&gt;Frustration (wth?)&lt;/li&gt;
+&lt;li&gt;Shock (it can&amp;rsquo;t really be this bad can it?)&lt;/li&gt;
 &lt;li&gt;Anger (wtf?)&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
@@ -64,7 +64,8 @@
       <pubDate>Sat, 08 Jul 2023 23:18:19 +0700</pubDate>
       
       <guid>https://peter.roehlen.net/posts/returning-to-linux/</guid>
-      <description>&lt;p&gt;Well after a year or something of exclusively using Windows 10/11 and not having Linux, I’m back baby.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Well after a year or something of exclusively using Windows 10/11 and not having Linux, I’m back baby.&lt;/p&gt;
+&lt;p&gt;I installed KDE Plasma so I could configure the taskbar to look/work like Windows 11, installed Microsoft VS Code, Microsoft Teams, Microsoft Edge, Microsoft Powershell and I’m ready to rock and roll.&lt;/p&gt;</description>
     </item>
     
     <item>
