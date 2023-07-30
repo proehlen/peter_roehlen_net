@@ -6,7 +6,25 @@
     <description>Recent content in Topics on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 22:07:51 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 11:19:43 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elixir</title>
+      <link>https://peter.roehlen.net/tags/elixir/</link>
+      <pubDate>Sun, 30 Jul 2023 11:19:43 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/tags/elixir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://peter.roehlen.net/tags/programming/</link>
+      <pubDate>Sun, 30 Jul 2023 11:19:43 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/tags/programming/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>UX</title>
       <link>https://peter.roehlen.net/tags/ux/</link>
@@ -40,15 +58,6 @@
       <pubDate>Tue, 11 Jul 2023 22:15:09 +0700</pubDate>
       
       <guid>https://peter.roehlen.net/tags/windows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://peter.roehlen.net/tags/programming/</link>
-      <pubDate>Mon, 19 Jun 2023 10:49:44 +0700</pubDate>
-      
-      <guid>https://peter.roehlen.net/tags/programming/</guid>
       <description></description>
     </item>
     
