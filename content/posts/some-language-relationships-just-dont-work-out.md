@@ -16,5 +16,5 @@ iex> "hello" <> " world"
 `<>` is the string concatenation operator? Wtf? That's the inequality operator in at least 4 languages including SQL.
 <!--more-->
 
-Sorry, but this relationship isn't going to work out. Maybe show people your good side before you introduce them to your nutty family and confess you were convicted for serial arson in your teens.
+Sorry, but this relationship isn't going to work out. Maybe show people your good side before you introduce them to your nutty family and confess you were a serial arsonist in your teens.
 
