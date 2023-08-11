@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jul 2023 11:19:43 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 21:10:01 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Can Now Drag Windows in i3wm</title>
+      <link>https://peter.roehlen.net/posts/you-can-now-drag-windows-in-i3wm/</link>
+      <pubDate>Fri, 11 Aug 2023 21:10:01 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/you-can-now-drag-windows-in-i3wm/</guid>
+      <description>&lt;p&gt;I just discovered by accident that you can now drag windows in &lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt; with the mouse. I use Microsoft Windows during working hours and must have just done it reflexively. It looks like the feature was added relatively recently in &lt;a href=&#34;https://github.com/i3/i3/pull/3085&#34;&gt;late 2022&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Some Language Relationships Just Don&#39;t Work Out</title>
       <link>https://peter.roehlen.net/posts/some-language-relationships-just-dont-work-out/</link>

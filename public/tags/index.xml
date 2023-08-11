@@ -6,7 +6,25 @@
     <description>Recent content in Topics on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jul 2023 11:19:43 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 21:10:01 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs</title>
+      <link>https://peter.roehlen.net/tags/emacs/</link>
+      <pubDate>Fri, 11 Aug 2023 21:10:01 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i3wm</title>
+      <link>https://peter.roehlen.net/tags/i3wm/</link>
+      <pubDate>Fri, 11 Aug 2023 21:10:01 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/tags/i3wm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Elixir</title>
       <link>https://peter.roehlen.net/tags/elixir/</link>
@@ -31,15 +49,6 @@
       <pubDate>Wed, 19 Jul 2023 22:07:51 +0700</pubDate>
       
       <guid>https://peter.roehlen.net/tags/ux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emacs</title>
-      <link>https://peter.roehlen.net/tags/emacs/</link>
-      <pubDate>Tue, 18 Jul 2023 22:49:00 +0700</pubDate>
-      
-      <guid>https://peter.roehlen.net/tags/emacs/</guid>
       <description></description>
     </item>
     
