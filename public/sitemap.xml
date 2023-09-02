@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://peter.roehlen.net/posts/learn-vim/</loc>
+    <lastmod>2023-09-02T23:13:42+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/</loc>
+    <lastmod>2023-09-02T23:13:42+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/posts/</loc>
+    <lastmod>2023-09-02T23:13:42+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/</loc>
+    <lastmod>2023-09-02T23:13:42+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/vim/</loc>
+    <lastmod>2023-09-02T23:13:42+07:00</lastmod>
+  </url><url>
     <loc>https://peter.roehlen.net/tags/emacs/</loc>
     <lastmod>2023-08-11T21:10:01+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/tags/i3wm/</loc>
-    <lastmod>2023-08-11T21:10:01+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/</loc>
-    <lastmod>2023-08-11T21:10:01+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/posts/</loc>
-    <lastmod>2023-08-11T21:10:01+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/tags/</loc>
     <lastmod>2023-08-11T21:10:01+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/posts/you-can-now-drag-windows-in-i3wm/</loc>

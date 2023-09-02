@@ -6,7 +6,16 @@
     <description>Recent content on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2023 21:10:01 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 23:13:42 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Vim</title>
+      <link>https://peter.roehlen.net/posts/learn-vim/</link>
+      <pubDate>Sat, 02 Sep 2023 23:13:42 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/learn-vim/</guid>
+      <description>&lt;p&gt;At work, I alternately have to use VS Code which does have vim key bindings and Eclipse which doesn’t. So I’ve been switching between the two for over a year and get reminded daily that I am, without exaggeration, 2x to 10x faster in VS Code. Not because of the editor, but because I can use vim mode in it.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>You Can Now Drag Windows in i3wm</title>
       <link>https://peter.roehlen.net/posts/you-can-now-drag-windows-in-i3wm/</link>
