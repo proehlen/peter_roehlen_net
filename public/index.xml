@@ -6,7 +6,16 @@
     <description>Recent content on Peter Roehlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Sep 2023 23:13:42 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Sep 2023 22:31:00 +0700</lastBuildDate><atom:link href="https://peter.roehlen.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blendOS Is Really Nice</title>
+      <link>https://peter.roehlen.net/posts/blendos-is-really-nice/</link>
+      <pubDate>Wed, 13 Sep 2023 22:31:00 +0700</pubDate>
+      
+      <guid>https://peter.roehlen.net/posts/blendos-is-really-nice/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been using &lt;a href=&#34;https://blendos.co/&#34;&gt;blendOS&lt;/a&gt; for a few days now and it’s really nice. I installed the KDE/Plasma version and everything just works really well which was a welcome relief after screwing around with Guix and NixOS for weeks.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Learn Vim</title>
       <link>https://peter.roehlen.net/posts/learn-vim/</link>

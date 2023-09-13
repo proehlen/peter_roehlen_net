@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-us">
   <head>
-    <title>Returning to Linux // Peter Roehlen</title>
+    <title>blendOS Is Really Nice // Peter Roehlen</title>
     <link rel="shortcut icon" href="/favicon.ico" />
     <meta charset="utf-8" />
     <meta name="generator" content="Hugo 0.118.2">
@@ -12,17 +12,15 @@
 
     
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Returning to Linux"/>
-<meta name="twitter:description" content="Well after a year or something of exclusively using Windows 10/11 and not having Linux, I’m back baby.
-I installed KDE Plasma so I could configure the taskbar to look/work like Windows 11, installed Microsoft VS Code, Microsoft Teams, Microsoft Edge, Microsoft Powershell and I’m ready to rock and roll."/>
+<meta name="twitter:title" content="blendOS Is Really Nice"/>
+<meta name="twitter:description" content="I&rsquo;ve been using blendOS for a few days now and it’s really nice. I installed the KDE/Plasma version and everything just works really well which was a welcome relief after screwing around with Guix and NixOS for weeks."/>
 
-    <meta property="og:title" content="Returning to Linux" />
-<meta property="og:description" content="Well after a year or something of exclusively using Windows 10/11 and not having Linux, I’m back baby.
-I installed KDE Plasma so I could configure the taskbar to look/work like Windows 11, installed Microsoft VS Code, Microsoft Teams, Microsoft Edge, Microsoft Powershell and I’m ready to rock and roll." />
+    <meta property="og:title" content="blendOS Is Really Nice" />
+<meta property="og:description" content="I&rsquo;ve been using blendOS for a few days now and it’s really nice. I installed the KDE/Plasma version and everything just works really well which was a welcome relief after screwing around with Guix and NixOS for weeks." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://peter.roehlen.net/posts/returning-to-linux/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2023-07-08T23:18:19+07:00" />
-<meta property="article:modified_time" content="2023-07-08T23:18:19+07:00" />
+<meta property="og:url" content="https://peter.roehlen.net/posts/blendos-is-really-nice/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-09-13T22:31:00+07:00" />
+<meta property="article:modified_time" content="2023-09-13T22:31:00+07:00" />
 
 
   </head>
@@ -69,14 +67,14 @@ I installed KDE Plasma so I could configure the taskbar to look/work like Window
       
   <article class="post">
     <header class="post-header">
-      <h1 class ="post-title">Returning to Linux</h1>
+      <h1 class ="post-title">blendOS Is Really Nice</h1>
       <div class="post-meta">
         <div>
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
   <title>calendar</title>
   <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
 </svg>
-          Jul 8, 2023
+          Sep 13, 2023
         </div>
         <div>
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
@@ -90,15 +88,21 @@ I installed KDE Plasma so I could configure the taskbar to look/work like Window
   <title>tag</title>
   <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
 </svg>
-              <a class="tag" href="https://peter.roehlen.net/tags/linux/">Linux</a>
-              <a class="tag" href="https://peter.roehlen.net/tags/windows/">Windows</a>
+              <a class="tag" href="https://peter.roehlen.net/tags/blendos/">blendOS</a>
         </div>
       </div>
     </header>
     <div class="post-content">
-      <p>Well after a year or something of exclusively using Windows 10/11 and not having Linux, I’m back baby.</p>
-<p>I installed KDE Plasma so I could configure the taskbar to look/work like Windows 11, installed Microsoft VS Code, Microsoft Teams, Microsoft Edge, Microsoft Powershell and I’m ready to rock and roll.</p>
-<p><img src="/images/how-do-you-do-fellow-foss-enthusiasts.png" alt="How do you do, fellow free software enthusiasts"></p>
+      <p>I&rsquo;ve been using <a href="https://blendos.co/">blendOS</a> for a few days now and it’s really nice. I installed the KDE/Plasma version and everything just works really well which was a welcome relief after screwing around with Guix and NixOS for weeks.</p>
+<p>The immutable file system part is a bit of a challenge in light of their under-cooked declarative system config tool (it’s still only on version 3 of a distro that only dropped this year) but once it fleshes out it will be really excellent. In the meantime, being able to install containerized packages from different distributions (Arch, Ubuntu and a half dozen others) and have them integrate seamlessly with your home directory and core operating system is really nice.</p>
+<p>I’ve also switched from/to the following in the past couple of weeks and I’m finding all of the changes to be an improvement:</p>
+<ol>
+<li>bash -&gt; zsh</li>
+<li>Vim -&gt; Neovim</li>
+<li>XOrg -&gt; Wayland</li>
+<li>i3 -&gt; <a href="https://swaywm.org/">Sway</a></li>
+</ol>
+<p>Wayland is a bit of an eye opener. Being able to start in KDE/Plasma, switch to a tty session, start Sway (another complete window manager) and then switch back and forth is a revelation after years of using Xorg which can only handle one instance.</p>
     </div>
     <div class="post-footer">
       <div id="disqus_thread"></div>
