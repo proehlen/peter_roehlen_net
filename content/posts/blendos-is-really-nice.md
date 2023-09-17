@@ -16,7 +16,9 @@ I’ve also switched from/to the following in the past couple of weeks and I’m
 3. XOrg -> Wayland
 4. i3 -> [Sway](https://swaywm.org/)
 
-~~Wayland is a bit of an eye opener. Being able to start in KDE/Plasma, switch to a tty session, start Sway (another complete window manager) and then switch back and forth is a revelation after years of using Xorg which can only handle one instance.~~[^1]
+~~Wayland is a bit of an eye opener. Being able to start in KDE/Plasma, switch to a tty session, start Sway (another complete window manager) and then switch back and forth is a revelation after years of using Xorg which can only handle one instance.~~ I've since discovered that that wasn't a feature of Wayland but has always worked even [with XOrg](https://en.wikipedia.org/wiki/Virtual_console):
 
-[^1]: I've since discovered that this isn't a feature of Wayland but has always worked even [with XOrg](https://en.wikipedia.org/wiki/Virtual_console)
+> If several sessions of the X Window System are required to run in parallel, such as in the case of fast user switching or when debugging X programs on a separate X server, each X session usually runs in a separate virtual console. 
+
+
 
