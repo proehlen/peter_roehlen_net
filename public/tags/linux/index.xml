@@ -13,7 +13,7 @@
       <pubDate>Mon, 25 Sep 2023 11:55:04 +0700</pubDate>
       
       <guid>https://peter.roehlen.net/posts/sticking-with-ublue/</guid>
-      <description>&lt;p&gt;I’ve been using &lt;a href=&#34;https://universal-blue.org/&#34;&gt;Universal Blue&lt;/a&gt; heavily for a week now and it’s a keeper. UBlue is an immutable operating system based on Fedora where you install nearly all of your software as either flatpaks or as packages running in containers. Those containers can be based on any of a dozen different distributions. You &lt;em&gt;can&lt;/em&gt; install Fedora packages to your base OS similar to a traditional distrubution but the philosopy behind UBlue encourages keeping your base install light and clean. Amongst other things, having a small, light and immutable base system greatly reduces your vector for malware.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve been using &lt;a href=&#34;https://universal-blue.org/&#34;&gt;Universal Blue&lt;/a&gt; heavily for a week now and it’s a keeper. UBlue is an immutable operating system based on Fedora where you install nearly all of your software as either flatpaks or as packages running in containers. Those containers can be based on any of a dozen different distributions. You &lt;em&gt;can&lt;/em&gt; install Fedora packages to your base OS similar to a traditional distribution but the philosophy behind UBlue encourages keeping your base install light and clean. Amongst other things, having a small, light and immutable base system greatly reduces your vector for malware.&lt;/p&gt;</description>
     </item>
     
     <item>
