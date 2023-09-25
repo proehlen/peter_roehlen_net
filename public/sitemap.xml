@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://peter.roehlen.net/posts/sticking-with-ublue/</loc>
+    <lastmod>2023-09-25T11:55:04+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/linux/</loc>
+    <lastmod>2023-09-25T11:55:04+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/</loc>
+    <lastmod>2023-09-25T11:55:04+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/posts/</loc>
+    <lastmod>2023-09-25T11:55:04+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/</loc>
+    <lastmod>2023-09-25T11:55:04+07:00</lastmod>
+  </url><url>
+    <loc>https://peter.roehlen.net/tags/ublue/</loc>
+    <lastmod>2023-09-25T11:55:04+07:00</lastmod>
+  </url><url>
     <loc>https://peter.roehlen.net/tags/blendos/</loc>
     <lastmod>2023-09-17T13:26:09+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/posts/blendos-multi-distribution-support-isnt-a-gimmick/</loc>
-    <lastmod>2023-09-17T13:26:09+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/</loc>
-    <lastmod>2023-09-17T13:26:09+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/posts/</loc>
-    <lastmod>2023-09-17T13:26:09+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/tags/</loc>
     <lastmod>2023-09-17T13:26:09+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/posts/blendos-is-really-nice/</loc>
@@ -58,9 +67,6 @@
   </url><url>
     <loc>https://peter.roehlen.net/posts/choosing-an-emacs-starting-configuration/</loc>
     <lastmod>2023-07-16T11:21:50+07:00</lastmod>
-  </url><url>
-    <loc>https://peter.roehlen.net/tags/linux/</loc>
-    <lastmod>2023-07-11T22:15:09+07:00</lastmod>
   </url><url>
     <loc>https://peter.roehlen.net/posts/linux-customization-like-crack/</loc>
     <lastmod>2023-07-11T22:15:09+07:00</lastmod>
